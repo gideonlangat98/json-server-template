@@ -1,52 +1,61 @@
 {
-  "toys": [
+  "furnitures": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "imageurl": "https://dignity.co.ke/wp-content/uploads/2021/12/Home-Office-Desk-1-WEB-300x225.jpg",
+      "price": "Ksh 50,000",
+      "type": "Standard Desk",
+      "location": "Nairobi, Kenya"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "imageurl": "https://m.media-amazon.com/images/I/61wlCkStj6L.jpg",
+      "price": "Ksh 30,000",
+      "type": "Dinning table",
+      "location": "Nairobi, Kenya"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "imageurl": "https://cdn2.sofadreams.com/media/catalog/product/cache/c41fae4236734eb803fb4c6a8d783161/r/e/recliner_motion_sofa_massimo_caramel_1.jpg",
+      "price": "Ksh 70,000",
+      "type": "Motion Sofa",
+      "location": "Nairobi, Kenya"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "imageurl": "https://cdn.shopify.com/s/files/1/0511/4688/3268/files/sss-03_1024x1024_crop_center.jpg?v=1643255423",
+      "price": "Ksh 100,000",
+      "type": "living room",
+      "location": "Nairobi, Kenya"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "imageurl": "https://cdn.shopify.com/s/files/1/0511/4688/3268/files/Christy-Website_banner-1-01-01_28630d93-f696-47aa-beee-cb8f32875bcf_1024x1024_crop_center.jpg?v=1643255384",
+      "price": "Ksh 10,500",
+      "type": "Office Chair",
+      "location": "Nairobi, Kenya"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "imageurl": "https://skygarden.azureedge.net/media/products/1398477-eee7e2451495487a85d15b10c704b696.jpg",
+      "price": "Ksh 30,500",
+      "type": "Nest of Stools",
+      "location": "Nairobi, Kenya"
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
+      "imageurl": "https://elegance.co.ke/pub/media/wysiwyg/product-img-7.jpg",
+      "price": "Ksh 50, 000",
+      "type": "Nest of Stools",
+      "location": "Nairobi, Kenya"
+    }
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "imageurl": "https://elegance.co.ke/pub/media/wysiwyg/product-img-8.jpg",
+      "price": "Ksh 50, 000",
+      "type": "Nest of Stools",
+      "location": "Nairobi, Kenya"
     }
-  ]
+  
+    ]
 }
