@@ -37,11 +37,26 @@
     },
     {
       "id": 6,
-      "imageurl": "https://skygarden.azureedge.net/media/products/1398477-eee7e2451495487a85d15b10c704b696.jpg",
-      "price": "Ksh 30,500",
-      "type": "Nest of Stools",
+      "imageurl": "https://furniturepalacekenya.com/wp-content/uploads/2022/01/17-800x533.png",
+      "price": "Ksh 200, 000",
+      "type": "Outdoor Corner Sofa",
+      "location": "Nairobi, Kenya"
+    },
+    {
+      "id": 6,
+      "imageurl": "https://furniturepalacekenya.com/wp-content/uploads/2022/01/17-800x533.png",
+      "price": "Ksh 200, 000",
+      "type": "Outdoor Corner Sofa",
+      "location": "Nairobi, Kenya"
+    },
+    {
+      "id": 7,
+      "imageurl": "https://elegance.co.ke/pub/media/wysiwyg/product-img-8.jpg",
+      "price": "Ksh 50, 000",
+      "type": "Tv Stands",
       "location": "Nairobi, Kenya"
     }
+
   
     ]
 }
